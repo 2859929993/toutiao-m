@@ -20,7 +20,7 @@ yarn build
 yarn lint
 ```
 
-#### Customize configuration
+### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # toutiao-m
 # toutiao-m
