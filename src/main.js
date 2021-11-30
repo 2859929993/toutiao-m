@@ -8,6 +8,9 @@ import Vant from 'vant'
 import 'vant/lib/index.css'
 // 加载全局样式
 import './styles/index.less'
+// 加载动态设置REM基准值
+import 'amfe-flexible'
+
 // 注册使用vant组件库
 Vue.use(Vant)
 
