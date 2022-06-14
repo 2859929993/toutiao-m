@@ -118,7 +118,7 @@ export default {
         duration: 0 // 持续时间，默认 2000，0 表示持续展示不关闭
       })
 
-      // 2. 请求登录
+      // 2. 请求登录12346789
       try {
         const { data } = await login(this.user)
         this.$store.commit('setUser', data.data)
